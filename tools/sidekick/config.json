@@ -1,7 +1,5 @@
 {
   "project": "DA Block Collection -- Dan",
-  "previewHost": "main--da--danzhang-pm.aem.page",
-  "liveHost": "main--da--danzhang-pm.aem.live",
   "editUrlLabel": "Document Authoring",
   "editUrlPattern": "https://da.live/edit#/{{org}}/{{site}}{{pathname}}",
   "plugins": [
